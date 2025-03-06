@@ -8,3 +8,4 @@ print("6 de marzo del 2025")
 
 print("Ya se canso la maestra de nosotros")
 print("la maestra ya se decepciono")
+# hola otra vez
